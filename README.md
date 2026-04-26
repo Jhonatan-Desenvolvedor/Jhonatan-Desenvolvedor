@@ -1,30 +1,30 @@
 # 👋 Olá, eu sou Jhonatan Moreira de Oliveira
 
-💻 Desenvolvedor Full-Stack  
+💻 Desenvolvedor Full Stack  
 🚀 Freelancer  
 📍 Rio de Janeiro - Brasil  
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-Sou desenvolvedor Full-Stack apaixonado por tecnologia e desenvolvimento web.  
-Atualmente trabalho como freelancer criando sites, landing pages e sistemas web sob medida para empresas e negócios locais.
+Sou desenvolvedor Full Stack apaixonado por tecnologia e desenvolvimento web.  
+Atualmente trabalho como freelancer desenvolvendo sites, landing pages, APIs REST e sistemas web sob medida para empresas e negócios locais.
 
-Tenho experiência no desenvolvimento de aplicações modernas, responsivas e focadas em performance, usabilidade e escalabilidade.
+Tenho experiência no desenvolvimento de aplicações modernas, responsivas e escaláveis, sempre focando em performance, usabilidade e boas práticas de desenvolvimento.
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠️ Tecnologias & Ferramentas
 
 ## Front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts,bootstrap,jquery" />
 </p>
 
 ## Back-end
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs" />
 </p>
 
 ## Banco de Dados
@@ -32,20 +32,29 @@ Tenho experiência no desenvolvimento de aplicações modernas, responsivas e fo
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
+## Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
 ---
 
 # 📌 Atualmente
 
-- 📚 Aprimorando conhecimentos em desenvolvimento web
+- 📚 Aprimorando conhecimentos em arquitetura e desenvolvimento web
 - ⚡ Criando sistemas web, APIs RESTful e landing pages profissionais
 
 ---
 
 # 📊 Estatísticas GitHub
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=Jhonatan-Desenvolvedor&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-Desenvolvedor&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Desenvolvedor&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-Desenvolvedor&layout=compact&langs_count=7&theme=highcontrast"/>
+
+</div>
 
 ---
 
@@ -57,7 +66,7 @@ Tenho experiência no desenvolvimento de aplicações modernas, responsivas e fo
   </a>
 
   <a href="mailto:jhonatan.desenvolvedor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://wa.me/5521965825005">
